@@ -9,7 +9,7 @@ int main(){
     Complex c(23.0, 45.9);
     cout << a << "," << b << "," << c << endl;
     a = b + c;
-    cout << "A=B+C,A=" << a << endl;
+    cout << "A=B+C,A= " << a << endl;
     Complex m;
     m = b - c;
     cout << "M=B-C, M=" << m << endl;
